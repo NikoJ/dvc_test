@@ -1,0 +1,4 @@
+outs:
+- md5: fa328669f16853602e905efd69eabe1e
+  size: 284514
+  path: netflix_titles2.csv
